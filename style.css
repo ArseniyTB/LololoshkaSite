@@ -31,3 +31,33 @@ a {
     text-decoration: none;
     font-size: 18px;
 }
+
+img {
+    border: 5px solid;
+    display: block;
+    margin: 50px;
+}
+
+.gamesofbog {
+    margin-top: 100px;
+}
+
+img:hover {
+    border: 3px solid;
+    border: center;
+    transform: scale(1.1);
+    margin-top: 20px;
+}
+
+.firestxt {
+    font-family: Arial;
+    margin-top: -170px;
+    margin-left: 450px;
+}
+
+
+.gamesofbogtxt {
+    font-family: Arial;
+    margin-top: -180px;
+    margin-left: 450px;
+}
