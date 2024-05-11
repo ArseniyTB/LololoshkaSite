@@ -12,6 +12,11 @@
     font-family: Arial;
 }
 
+.linkyt {
+    text-decoration: none;
+    color: black;
+}
+
 header {
     background: lightgray;
     padding: 10px;
@@ -49,15 +54,37 @@ img:hover {
     margin-top: 20px;
 }
 
-.firestxt {
-    font-family: Arial;
-    margin-top: -170px;
-    margin-left: 450px;
-}
-
-
 .gamesofbogtxt {
     font-family: Arial;
     margin-top: -180px;
     margin-left: 450px;
 }
+
+.day {
+    font-family: Arial;
+    color: burlywood;
+    margin-left: 150px;
+    font-size: 22px;
+}
+
+.daytxt {
+    font-family: Arial;
+    margin-left: 20px;
+    margin-top: -10px;
+    font-size: 18px;
+}
+
+.history {
+    font-family: Arial;
+    font-size: 22px;
+    margin-left: 1100px;
+    margin-top: -130px;
+}
+
+.historytxt {
+    font-family: Arial;
+    font-size: 18px;
+    margin-top: -10px;
+    margin-left: 900px;
+}
+
